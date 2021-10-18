@@ -1,0 +1,60 @@
+*{
+    padding: 0%;
+    margin: 0%;
+}
+html{
+    font-size: 16px;
+}
+
+img{
+    width: 100%;
+    margin-top: 1rem;
+}
+
+.s1{
+    font-size: 1.7rem;
+    background-color:rgb(9, 9, 41);
+    color:white;
+    padding:2.5rem;
+    
+}
+
+.s3{
+    font-size: 1.2rem;
+    background-color:rgb(9, 9, 41);
+    color:white;
+    padding:2.5rem;
+
+}
+p{
+    margin-top: 1em;
+    margin-bottom: 1em;
+}
+
+.top
+{
+   
+    width: 90%;
+    margin: 0 auto;
+    max-width:620px;
+}
+
+
+h3
+{
+    font-size: 1.6rem;
+    margin-bottom: 1em;
+    color:orangered;
+}
+
+
+.s2
+{
+    
+    font-size: 1.2rem;
+    padding:2.5em;
+    background-color:white;
+    color:rgb(9, 9, 41);
+   
+}
+
